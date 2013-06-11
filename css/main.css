@@ -1,0 +1,19 @@
+#wrapper{
+     width:940px;
+     margin:0px auto;   
+}
+
+.post_note{
+    display:inline-block;
+    width:150px;
+    height:150px;
+    background-color:yellow;
+    margin-right:10px;
+    float:left;
+    margin-bottom:10px;
+    
+}
+
+.clear{
+     clear:both;   
+}
